@@ -3,7 +3,7 @@
     <title>Full Breakpoint Show Feed</title>
     <link>https://www.breakpoint.show/</link>
     <description>A complete feed of the The Breakpoint Show</description>
-    <lastBuildDate>Fri, 25 Apr 2025 08:13:22 Z</lastBuildDate>
+    <lastBuildDate>Fri, 25 Apr 2025 23:25:28 Z</lastBuildDate>
     <image>
       <url>http://www.breakpoint.show/wp-content/uploads/2023/07/Transparent-Logo@2138.png</url>
       <title>Full Breakpoint Show Feed</title>
@@ -15,13 +15,468 @@
       <title>Episode 001 - Blazor United &amp;amp; HTMX - The Breakpoint Show</title>
       <description>Welcome to the first episode of our exciting new podcast, &amp;quot;The Breakpoint Podcast&amp;quot;! Join us as we dive deep into the dynamic world of software development, exploring the cutting-edge technologies that shape the digital landscape.</description>
       <pubDate>Fri, 28 Jul 2023 16:53:12 Z</pubDate>
+      <image href="https://www.breakpoint.show/wp-content/uploads/2023/07/episode_1_thumbnail.png" xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" />
       <image>
         <url>https://www.breakpoint.show/wp-content/uploads/2023/07/episode_1_thumbnail.png</url>
         <title>Episode 001 - Blazor United &amp;amp; HTMX - The Breakpoint Show</title>
-        <width>1200</width>
-        <height>628</height>
       </image>
-      <enclosure url="https://www.breakpoint.show/podcast-download/1834/episode-001-blazor-united-htmx.mp3?ref=download" type="audio/mp3" />
+      <enclosure url="https://www.breakpoint.show/podcast-download/1834/episode-001-blazor-united-htmx.mp3?ref=download" type="audio/mp3" length="62827081" />
+    </item>
+    <item>
+      <link>https://www.breakpoint.show/podcast/episode-002-how-to-find-oss-the-net-time-loop/</link>
+      <title>Episode 002 - How to find OSS &amp;amp; the .NET Time Loop - The Breakpoint Show</title>
+      <description>Welcome back to another insightful episode of &amp;quot;Web Dev Unleashed&amp;quot;! In our second episode, we&amp;#039;re embarking on a fascinating journey through the realms of the .NET ecosystem. Join us as we uncover the intricate web of .NET open-source projects and delve into an intriguing concept we&amp;#039;ve coined as the &amp;quot;time loop of .NET.&amp;quot;</description>
+      <pubDate>Thu, 10 Aug 2023 16:31:25 Z</pubDate>
+      <image href="https://www.breakpoint.show/wp-content/uploads/2023/08/breakpoint-show-august-8.png" xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+      <image>
+        <url>https://www.breakpoint.show/wp-content/uploads/2023/08/breakpoint-show-august-8.png</url>
+        <title>Episode 002 - How to find OSS &amp;amp; the .NET Time Loop - The Breakpoint Show</title>
+      </image>
+      <enclosure url="https://www.breakpoint.show/podcast-download/2006/episode-002-how-to-find-oss-the-net-time-loop.mp3?ref=download" type="audio/mp3" />
+    </item>
+    <item>
+      <link>https://www.breakpoint.show/podcast/episode-3-skill-growth-tips-tricks/</link>
+      <title>Episode 003 - Skill Growth Tips &amp;amp; Tricks - The Breakpoint Show</title>
+      <description>Welcome to another captivating episode of “The Breakpoint Show”! In our third installment, we’re diving deep into the world of professional growth and development. Join us as we uncover a treasure trove of invaluable tips and tricks that will elevate your skills and supercharge your career in the ever-evolving realm of technology. In this episode, we’re pulling back the curtain on three game-changing strategies that can take your journey in the developer world to new heights. First up, we’re exploring the power of blogging. Discover how sharing your insights, challenges, and triumphs through blogging can solidify your understanding and establish your presence in the developer community. We’ll share proven techniques to start and maintain a compelling tech blog that resonates with both beginners and seasoned professionals.</description>
+      <pubDate>Wed, 23 Aug 2023 12:37:36 Z</pubDate>
+      <image href="https://www.breakpoint.show/wp-content/uploads/2023/08/breakpoint-show-episode-three-skill-growth-tips-tricks.png" xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+      <image>
+        <url>https://www.breakpoint.show/wp-content/uploads/2023/08/breakpoint-show-episode-three-skill-growth-tips-tricks.png</url>
+        <title>Episode 003 - Skill Growth Tips &amp;amp; Tricks - The Breakpoint Show</title>
+      </image>
+      <enclosure url="https://www.breakpoint.show/podcast-download/2051/episode-3-skill-growth-tips-tricks.mp3?ref=download" type="audio/mp3" length="64744539" />
+    </item>
+    <item>
+      <link>https://www.breakpoint.show/podcast/episode-004-the-missing-parts-of-net/</link>
+      <title>Episode 004 - The Missing Parts of .NET - The Breakpoint Show</title>
+      <description>Welcome back to &amp;quot;The Breakpoint Show&amp;quot; for our fourth episode! In this installment, we&amp;#039;re delving deep into the fascinating world of .NET, but this time, we&amp;#039;re shining a light on the areas where it&amp;#039;s still a work in progress. Join us as we uncover the missing pieces of the .NET puzzle and explore the challenges</description>
+      <pubDate>Thu, 14 Sep 2023 01:33:50 Z</pubDate>
+      <image href="https://www.breakpoint.show/wp-content/uploads/2023/09/missing-parts-of-dotnet.png" xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+      <image>
+        <url>https://www.breakpoint.show/wp-content/uploads/2023/09/missing-parts-of-dotnet.png</url>
+        <title>Episode 004 - The Missing Parts of .NET - The Breakpoint Show</title>
+      </image>
+      <enclosure url="https://www.breakpoint.show/podcast-download/2069/episode-004-the-missing-parts-of-net.mp3?ref=download" type="audio/mp3" length="80531836" />
+    </item>
+    <item>
+      <link>https://www.breakpoint.show/podcast/episode-005-asserting-success-navigating-net-testing/</link>
+      <title>Episode 005 - Asserting Success: Navigating .NET Testing - The Breakpoint Show</title>
+      <description>Welcome back to another enlightening episode of &amp;quot;The Breakpoint Show&amp;quot;! In our fifth installment, we&amp;#039;re diving headfirst into the world of testing strategies and tools for .NET projects. Join us for a deep exploration of the crucial role that testing plays in ensuring the reliability and quality of your .NET applications.</description>
+      <pubDate>Sat, 30 Sep 2023 01:04:17 Z</pubDate>
+      <image href="https://www.breakpoint.show/wp-content/uploads/2023/09/episode-five.png" xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+      <image>
+        <url>https://www.breakpoint.show/wp-content/uploads/2023/09/episode-five.png</url>
+        <title>Episode 005 - Asserting Success: Navigating .NET Testing - The Breakpoint Show</title>
+      </image>
+      <enclosure url="https://www.breakpoint.show/podcast-download/2087/episode-005-asserting-success-navigating-net-testing.mp3?ref=download" type="audio/mp3" length="72029083" />
+    </item>
+    <item>
+      <link>https://www.breakpoint.show/podcast/episode-006-beyond-the-net-horizon-diving-into-diverse-dev-tech/</link>
+      <title>Episode 006 - Beyond the .NET Horizon: Diving into Diverse Dev Tech - The Breakpoint Show</title>
+      <description>Welcome aboard to another thrilling episode of &amp;quot;The Breakpoint Show&amp;quot;! In this sixth installment, we&amp;#039;re setting sail on a journey beyond the familiar shores of the .NET ecosystem. Join us as we dive deep into the vast ocean of software development tools, ideas, and innovations from other communities that can provide .NET developers with a distinct advantage.</description>
+      <pubDate>Wed, 11 Oct 2023 20:05:30 Z</pubDate>
+      <image href="https://www.breakpoint.show/wp-content/uploads/2023/09/episode-six.png" xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+      <image>
+        <url>https://www.breakpoint.show/wp-content/uploads/2023/09/episode-six.png</url>
+        <title>Episode 006 - Beyond the .NET Horizon: Diving into Diverse Dev Tech - The Breakpoint Show</title>
+      </image>
+      <enclosure url="https://www.breakpoint.show/podcast-download/2110/episode-006-beyond-the-net-horizon-diving-into-diverse-dev-tech.mp3?ref=download" type="audio/mp3" length="61480528" />
+    </item>
+    <item>
+      <link>https://www.breakpoint.show/podcast/episode-007/</link>
+      <title>Episode 007 - Halloween Special: A Developer&amp;#039;s Fright Night - The Breakpoint Show</title>
+      <description>Welcome to a spine-tingling, code-infested Halloween special episode of &amp;quot;The Breakpoint Show&amp;quot;! Join us as we embark on a hair-raising journey into the darkest corners of technology, where we confront the tech that haunts our nightmares and contemplate what we&amp;#039;d &amp;quot;murder&amp;quot; and reanimate for a brighter tech future.</description>
+      <pubDate>Thu, 26 Oct 2023 17:02:26 Z</pubDate>
+      <image href="https://www.breakpoint.show/wp-content/uploads/2023/10/breakpoint_october_25_episode_7.png" xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+      <image>
+        <url>https://www.breakpoint.show/wp-content/uploads/2023/10/breakpoint_october_25_episode_7.png</url>
+        <title>Episode 007 - Halloween Special: A Developer&amp;#039;s Fright Night - The Breakpoint Show</title>
+      </image>
+      <enclosure url="https://www.breakpoint.show/podcast-download/2122/episode-007.mp3?ref=download" type="audio/mp3" length="78482383" />
+    </item>
+    <item>
+      <link>https://www.breakpoint.show/podcast/episode-008-exploring-nets-hidden-gems/</link>
+      <title>Episode 008 - Exploring .NET&amp;#039;s Hidden Gems - The Breakpoint Show</title>
+      <description>Welcome to the fifth episode of &amp;quot;The Breakpoint Show,&amp;quot; where we&amp;#039;re about to embark on a journey of discovery through the intricate world of .NET and C#! In this episode, we&amp;#039;re spotlighting the hidden treasures, forgotten features, and unsung heroes of this versatile and powerful ecosystem.</description>
+      <pubDate>Thu, 09 Nov 2023 01:11:24 Z</pubDate>
+      <image href="https://www.breakpoint.show/wp-content/uploads/2023/11/episode-8-november-7-hidden-gems-dotnet.png" xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+      <image>
+        <url>https://www.breakpoint.show/wp-content/uploads/2023/11/episode-8-november-7-hidden-gems-dotnet.png</url>
+        <title>Episode 008 - Exploring .NET&amp;#039;s Hidden Gems - The Breakpoint Show</title>
+      </image>
+      <enclosure url="https://www.breakpoint.show/podcast-download/2139/episode-008-exploring-nets-hidden-gems.mp3?ref=download" type="audio/mp3" length="67525081" />
+    </item>
+    <item>
+      <link>https://www.breakpoint.show/podcast/episode-009-whats-new-in-net-8-lts/</link>
+      <title>Episode 009 - What&amp;#039;s New in .NET 8 LTS - The Breakpoint Show</title>
+      <description>Welcome back to &amp;quot;The Breakpoint Show,&amp;quot; where we&amp;#039;re your trusted source for all things .NET and C#! In our ninth episode, we&amp;#039;re diving headfirst into the exciting world of what&amp;#039;s new in this ever-evolving ecosystem. Join us as we explore the latest features, enhancements, and innovations reshaping the landscape of .NET and C#.</description>
+      <pubDate>Sun, 10 Dec 2023 12:51:23 Z</pubDate>
+      <image href="https://www.breakpoint.show/wp-content/uploads/2023/12/episode-nine-dotnet-8-LTS.png" xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+      <image>
+        <url>https://www.breakpoint.show/wp-content/uploads/2023/12/episode-nine-dotnet-8-LTS.png</url>
+        <title>Episode 009 - What&amp;#039;s New in .NET 8 LTS - The Breakpoint Show</title>
+      </image>
+      <enclosure url="https://www.breakpoint.show/podcast-download/2148/episode-009-whats-new-in-net-8-lts.mp3?ref=download" type="audio/mp3" length="90105151" />
+    </item>
+    <item>
+      <link>https://www.breakpoint.show/podcast/episode-010-jetbrains-stackoverflow-community-surveys/</link>
+      <title>Episode 010 - JetBrains &amp;amp; Stackoverflow Community Surveys - The Breakpoint Show</title>
+      <description>Welcome to the milestone tenth episode of &amp;quot;The Breakpoint Show&amp;quot;! In this special installment, we&amp;#039;re diving deep into the fascinating world of developer surveys. Join us for a thought-provoking discussion as we dissect and analyze the key insights and trends revealed in the 2023 developer surveys from JetBrains and Stack Overflow.</description>
+      <pubDate>Mon, 18 Dec 2023 12:09:15 Z</pubDate>
+      <image href="https://www.breakpoint.show/wp-content/uploads/2023/12/breakpoint-show-community-surveys-dec-11.png" xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+      <image>
+        <url>https://www.breakpoint.show/wp-content/uploads/2023/12/breakpoint-show-community-surveys-dec-11.png</url>
+        <title>Episode 010 - JetBrains &amp;amp; Stackoverflow Community Surveys - The Breakpoint Show</title>
+      </image>
+      <enclosure url="https://www.breakpoint.show/podcast-download/2159/episode-010-jetbrains-stackoverflow-community-surveys.mp3?ref=download" type="audio/mp3" length="38732320" />
+    </item>
+    <item>
+      <link>https://www.breakpoint.show/podcast/episode-011-the-future-of-software-development-workflows/</link>
+      <title>Episode 011 - The Future of Software Development Workflows - The Breakpoint Show</title>
+      <description>Welcome to the eleventh episode of &amp;quot;The Breakpoint Show,&amp;quot; where we&amp;#039;re diving headfirst into the future of software development workflows! Join us for a captivating exploration of the evolving landscape of how we build, test, deploy, and maintain software. In this episode, we&amp;#039;re your guides through the exciting world of cutting-edge software development practices and methodologies. We&amp;#039;ll discuss how workflows are evolving in response to emerging technologies, shifting paradigms, and the ever-increasing demand for efficiency and agility.</description>
+      <pubDate>Tue, 26 Dec 2023 11:44:11 Z</pubDate>
+      <image href="https://www.breakpoint.show/wp-content/uploads/2023/12/bps-december-13.png" xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+      <image>
+        <url>https://www.breakpoint.show/wp-content/uploads/2023/12/bps-december-13.png</url>
+        <title>Episode 011 - The Future of Software Development Workflows - The Breakpoint Show</title>
+      </image>
+      <enclosure url="https://www.breakpoint.show/podcast-download/2168/episode-011-the-future-of-software-development-workflows.mp3?ref=download" type="audio/mp3" />
+    </item>
+    <item>
+      <link>https://www.breakpoint.show/podcast/episode-012-lambos-pickled-boloney-learning-new-skills/</link>
+      <title>Episode 012 - Lambos &amp;amp; Pickled Boloney: Learning New Skills - The Breakpoint Show</title>
+      <description>Welcome to the twelfth episode of &amp;quot;The Breakpoint Show&amp;quot;! In this installment, we&amp;#039;re delving into a topic near and dear to every developer&amp;#039;s heart: keeping your software development skills sharp and up to date.</description>
+      <pubDate>Sun, 14 Jan 2024 01:17:52 Z</pubDate>
+      <image href="https://www.breakpoint.show/wp-content/uploads/2024/01/january-11th-lambos-and-baloney.png" xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+      <image>
+        <url>https://www.breakpoint.show/wp-content/uploads/2024/01/january-11th-lambos-and-baloney.png</url>
+        <title>Episode 012 - Lambos &amp;amp; Pickled Boloney: Learning New Skills - The Breakpoint Show</title>
+      </image>
+      <enclosure url="https://www.breakpoint.show/podcast-download/2181/episode-012-lambos-pickled-boloney-learning-new-skills.mp3?ref=download" type="audio/mp3" length="41169022" />
+    </item>
+    <item>
+      <link>https://www.breakpoint.show/podcast/episode-013-squirrel-how-to-focus/</link>
+      <title>Episode 013 - SQUIRREL! - How to Focus - The Breakpoint Show</title>
+      <description>Welcome to the thirteenth episode of &amp;quot;The Breakpoint Show&amp;quot;! 🎙️ In this uproarious installment, we&amp;#039;re tackling the age-old challenge of staying focused as a software professional, and we&amp;#039;re doing it with a twist. Why do software developers sometimes chase new ideas, like dogs spotting squirrels in the park? 🐶🐿️ We&amp;#039;ve all been there – one moment, you&amp;#039;re deep in code, and the next, you&amp;#039;re off on a wild tangent. Join us as we explore the art of staying on track, even when the lure of squirrels (metaphorical or otherwise) is strong.</description>
+      <pubDate>Fri, 26 Jan 2024 01:06:18 Z</pubDate>
+      <image href="https://www.breakpoint.show/wp-content/uploads/2024/01/jan-23-focus-breakpoint-show.png" xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+      <image>
+        <url>https://www.breakpoint.show/wp-content/uploads/2024/01/jan-23-focus-breakpoint-show.png</url>
+        <title>Episode 013 - SQUIRREL! - How to Focus - The Breakpoint Show</title>
+      </image>
+      <enclosure url="https://www.breakpoint.show/podcast-download/2191/episode-013-squirrel-how-to-focus.mp3?ref=download" type="audio/mp3" length="78111341" />
+    </item>
+    <item>
+      <link>https://www.breakpoint.show/podcast/episode-014-net-framework-to-net-latest-migration-strategy-session/</link>
+      <title>Episode 014 - .NET Framework to .NET Latest Migration Strategy Session - The Breakpoint Show</title>
+      <description>Welcome to the fourteenth episode of &amp;quot;The Breakpoint Show&amp;quot;! In this highly anticipated installment, we&amp;#039;re diving deep into migration strategies, exploring the ins and outs of transitioning from .NET Framework to .NET Core or newer versions of the .NET Framework.</description>
+      <pubDate>Tue, 13 Feb 2024 11:17:03 Z</pubDate>
+      <image href="https://www.breakpoint.show/wp-content/uploads/2024/02/feb-9-2024-breakpoint-show.png" xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+      <image>
+        <url>https://www.breakpoint.show/wp-content/uploads/2024/02/feb-9-2024-breakpoint-show.png</url>
+        <title>Episode 014 - .NET Framework to .NET Latest Migration Strategy Session - The Breakpoint Show</title>
+      </image>
+      <enclosure url="https://www.breakpoint.show/podcast-download/2208/episode-014-net-framework-to-net-latest-migration-strategy-session.mp3?ref=download" type="audio/mp3" length="36062397" />
+    </item>
+    <item>
+      <link>https://www.breakpoint.show/podcast/episode-015-dude-wheres-my-data/</link>
+      <title>Episode 015 - Dude, Where&amp;#039;s My Data? - The Breakpoint Show</title>
+      <description>Welcome to the fifteenth episode of &amp;quot;The Breakpoint Show&amp;quot;! Today, we&amp;#039;re diving deep into data and storage technologies, exploring how our .NET Core applications access and interact with data. Data is the lifeblood of modern applications, and choosing the right storage technology is crucial for ensuring scalability, performance, and reliability. Join us as we unravel the diverse storage options available to .NET Core developers, from traditional relational databases to NoSQL solutions and cloud-based storage services.</description>
+      <pubDate>Mon, 04 Mar 2024 12:36:46 Z</pubDate>
+      <image href="https://www.breakpoint.show/wp-content/uploads/2024/03/breakpoint-feb-29-ep-14.png" xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+      <image>
+        <url>https://www.breakpoint.show/wp-content/uploads/2024/03/breakpoint-feb-29-ep-14.png</url>
+        <title>Episode 015 - Dude, Where&amp;#039;s My Data? - The Breakpoint Show</title>
+      </image>
+      <enclosure url="https://www.breakpoint.show/podcast-download/2221/episode-015-dude-wheres-my-data.mp3?ref=download" type="audio/mp3" length="42908986" />
+    </item>
+    <item>
+      <link>https://www.breakpoint.show/podcast/episode-016-the-1-billion-row-challenge-with-mark-rendle/</link>
+      <title>Episode 016 - The 1 Billion Row Challenge With Mark Rendle - The Breakpoint Show</title>
+      <description>Welcome to a groundbreaking episode of &amp;quot;The Breakpoint Show&amp;quot;! 🎙️ We&amp;#039;re thrilled to welcome our first-ever guest, the legendary Mark Rendle, to the studio. Together, we&amp;#039;re diving headfirst into the exhilarating world of the 1 Billion Row Challenge and unraveling the mysteries of .NET and C# performance in this epic competition. The 1 Billion Row Challenge is not for the faint of heart—it&amp;#039;s a test of skill, ingenuity, and raw performance prowess. Join us as Mark delves into the intricacies of the challenge and discusses his strategies for tackling it head-on. From optimizing code and leveraging parallelism to fine-tuning floating-point calculations, he&amp;#039;ll leave no stone unturned in his quest for victory.</description>
+      <pubDate>Thu, 14 Mar 2024 10:42:32 Z</pubDate>
+      <image href="https://www.breakpoint.show/wp-content/uploads/2024/03/breakpoint_show_mark_rendle.png" xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+      <image>
+        <url>https://www.breakpoint.show/wp-content/uploads/2024/03/breakpoint_show_mark_rendle.png</url>
+        <title>Episode 016 - The 1 Billion Row Challenge With Mark Rendle - The Breakpoint Show</title>
+      </image>
+      <enclosure url="https://www.breakpoint.show/podcast-download/2236/episode-016-the-1-billion-row-challenge-with-mark-rendle.mp3?ref=download" type="audio/mp3" length="43844379" />
+    </item>
+    <item>
+      <link>https://www.breakpoint.show/podcast/episode-017-getting-started-with-game-development/</link>
+      <title>Episode 017 - Getting Started with Game Development - The Breakpoint Show</title>
+      <description>Welcome to the seventeenth episode of &amp;quot;The Breakpoint Show&amp;quot;! 🎮 Today, we&amp;#039;re stepping into the exciting realm of game development, exploring how we harness the power of .NET and C# to create immersive gaming experiences.</description>
+      <pubDate>Wed, 27 Mar 2024 11:31:02 Z</pubDate>
+      <image href="https://www.breakpoint.show/wp-content/uploads/2024/03/gamedev_breakpoint.png" xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+      <image>
+        <url>https://www.breakpoint.show/wp-content/uploads/2024/03/gamedev_breakpoint.png</url>
+        <title>Episode 017 - Getting Started with Game Development - The Breakpoint Show</title>
+      </image>
+      <enclosure url="https://www.breakpoint.show/podcast-download/2251/episode-017-getting-started-with-game-development.mp3?ref=download" type="audio/mp3" length="43837692" />
+    </item>
+    <item>
+      <link>https://www.breakpoint.show/podcast/episode-018-beyond-boundaries-network-programming/</link>
+      <title>Episode 018 - Beyond Boundaries Network Programming - The Breakpoint Show</title>
+      <description>https://youtu.be/nemE5XJGTB0Welcome to the eighteenth episode of &amp;quot;The Breakpoint Show&amp;quot;! 🎙️ Today, we&amp;#039;re delving deep into the world of network programming with .NET and C#, and we&amp;#039;ve got some exciting news to share!Join us as we explore the intricacies of network programming, from socket communication and HTTP requests to building robust and scalable networked applications using</description>
+      <pubDate>Thu, 11 Apr 2024 10:50:00 Z</pubDate>
+      <image href="https://www.breakpoint.show/wp-content/uploads/2024/04/breakpoint_youtube.png" xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+      <image>
+        <url>https://www.breakpoint.show/wp-content/uploads/2024/04/breakpoint_youtube.png</url>
+        <title>Episode 018 - Beyond Boundaries Network Programming - The Breakpoint Show</title>
+      </image>
+      <enclosure url="https://www.breakpoint.show/podcast-download/2268/episode-018-beyond-boundaries-network-programming.mp3?ref=download" type="audio/mp3" length="40340209" />
+    </item>
+    <item>
+      <link>https://www.breakpoint.show/podcast/episode-019-landing-your-dream-job/</link>
+      <title>Episode 019 - Landing Your Dream Job - The Breakpoint Show</title>
+      <description>Welcome to the 19th episode of &amp;quot;The Breakpoint Show&amp;quot;! 🎙️ In this episode, we&amp;#039;re diving into the world of career development, offering valuable insights and advice for software professionals navigating the job market.</description>
+      <pubDate>Thu, 25 Apr 2024 11:10:55 Z</pubDate>
+      <image href="https://www.breakpoint.show/wp-content/uploads/2024/04/breakpoint_show_dreamjob.png" xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+      <image>
+        <url>https://www.breakpoint.show/wp-content/uploads/2024/04/breakpoint_show_dreamjob.png</url>
+        <title>Episode 019 - Landing Your Dream Job - The Breakpoint Show</title>
+      </image>
+      <enclosure url="https://www.breakpoint.show/podcast-download/2278/episode-019-landing-your-dream-job.mp3?ref=download" type="audio/mp3" length="42807422" />
+    </item>
+    <item>
+      <link>https://www.breakpoint.show/podcast/episode-020-talking-boring-tech/</link>
+      <title>Episode 020 - Talking Boring Tech - The Breakpoint Show</title>
+      <description>Welcome to the twentieth episode of &amp;quot;The Breakpoint Show&amp;quot;! 🎙️ Today, we&amp;#039;re diving into a seemingly paradoxical topic: boring technology. Join us as we explore why embracing boring technology can be a game-changer for software developers.</description>
+      <pubDate>Thu, 09 May 2024 12:37:04 Z</pubDate>
+      <image href="https://www.breakpoint.show/wp-content/uploads/2024/05/breakpoint_youtube_boring.png" xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+      <image>
+        <url>https://www.breakpoint.show/wp-content/uploads/2024/05/breakpoint_youtube_boring.png</url>
+        <title>Episode 020 - Talking Boring Tech - The Breakpoint Show</title>
+      </image>
+      <enclosure url="https://www.breakpoint.show/podcast-download/2295/episode-020-talking-boring-tech.mp3?ref=download" type="audio/mp3" length="39117794" />
+    </item>
+    <item>
+      <link>https://www.breakpoint.show/podcast/episode-021-mind-blowing-performance-with-daniel-marbach/</link>
+      <title>Episode 021 - Mind-Blowing Performance with Daniel Marbach - The Breakpoint Show</title>
+      <description>Welcome to the twenty-first episode of &amp;quot;The Breakpoint Show&amp;quot;! 🎙️ Today, we&amp;#039;re thrilled to have a special guest, Daniel Marbach, join us for an in-depth discussion on .NET software performance. Performance is a crucial aspect of software development, and optimizing the performance of .NET applications is no exception. Join us as we explore the intricacies of .NET software performance, exploring techniques, tools, and best practices for ensuring that your applications run smoothly and efficiently.</description>
+      <pubDate>Thu, 30 May 2024 12:37:50 Z</pubDate>
+      <image href="https://www.breakpoint.show/wp-content/uploads/2024/05/daniel_marbach.png" xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+      <image>
+        <url>https://www.breakpoint.show/wp-content/uploads/2024/05/daniel_marbach.png</url>
+        <title>Episode 021 - Mind-Blowing Performance with Daniel Marbach - The Breakpoint Show</title>
+      </image>
+      <enclosure url="https://www.breakpoint.show/podcast-download/2310/episode-021-mind-blowing-performance-with-daniel-marbach.mp3?ref=download" type="audio/mp3" length="47346206" />
+    </item>
+    <item>
+      <link>https://www.breakpoint.show/podcast/episode-022-dev-productivity-hardware-tools/</link>
+      <title>Episode 022 - Dev, Productivity, &amp;amp; Hardware Tools - The Breakpoint Show</title>
+      <description>Welcome to the twenty-second episode of &amp;quot;The Breakpoint Show&amp;quot;! In this exciting installment, we&amp;#039;re diving into the essential development, productivity, and hardware tools our hosts use daily. Join us as we explore how to optimize your workflow, boost your efficiency, and leverage the best and our favorite tools and hardware to elevate your development game.</description>
+      <pubDate>Wed, 12 Jun 2024 13:00:42 Z</pubDate>
+      <image href="https://www.breakpoint.show/wp-content/uploads/2024/06/breakpoint_youtube_tools_2.png" xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+      <image>
+        <url>https://www.breakpoint.show/wp-content/uploads/2024/06/breakpoint_youtube_tools_2.png</url>
+        <title>Episode 022 - Dev, Productivity, &amp;amp; Hardware Tools - The Breakpoint Show</title>
+      </image>
+      <enclosure url="https://www.breakpoint.show/podcast-download/2321/episode-022-dev-productivity-hardware-tools.mp3?ref=download" type="audio/mp3" length="46451756" />
+    </item>
+    <item>
+      <link>https://www.breakpoint.show/podcast/episode-023-how-would-you-build-it/</link>
+      <title>Episode 023 - How Would You Build It? - The Breakpoint Show</title>
+      <description>Welcome to the twenty-third episode of &amp;quot;The Breakpoint Show&amp;quot;! In this exciting episode, we&amp;#039;re diving into web development to explore the latest technologies and approaches for building new websites and apps. Whether you&amp;#039;re a seasoned developer or just starting, this episode is packed with insights to help you navigate the ever-evolving landscape of web development. We welcome everyone, regardless of your level of expertise, to join us on this journey.</description>
+      <pubDate>Wed, 26 Jun 2024 12:33:47 Z</pubDate>
+      <image href="https://www.breakpoint.show/wp-content/uploads/2024/06/breakpoint_youtube.png" xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+      <image>
+        <url>https://www.breakpoint.show/wp-content/uploads/2024/06/breakpoint_youtube.png</url>
+        <title>Episode 023 - How Would You Build It? - The Breakpoint Show</title>
+      </image>
+      <enclosure url="https://www.breakpoint.show/podcast-download/2338/episode-023-how-would-you-build-it.mp3?ref=download" type="audio/mp3" length="37366012" />
+    </item>
+    <item>
+      <link>https://www.breakpoint.show/podcast/episode-024-amazing-discovery-in-net-9/</link>
+      <title>Episode 024 - Amazing Discovery in .NET 9 - The Breakpoint Show</title>
+      <description>Welcome to the twenty-fourth episode of &amp;quot;The Breakpoint Show&amp;quot;! Today, we&amp;#039;re exploring the latest and greatest updates in .NET 9, exploring exciting new features and enhancements that will revolutionize your development experience. Whether you&amp;#039;re a seasoned .NET developer or just getting started, this episode is packed with insights to help you stay on the cutting edge.</description>
+      <pubDate>Sat, 06 Jul 2024 13:27:00 Z</pubDate>
+      <image href="https://www.breakpoint.show/wp-content/uploads/2024/07/breakpoint_youtube.png" xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+      <image>
+        <url>https://www.breakpoint.show/wp-content/uploads/2024/07/breakpoint_youtube.png</url>
+        <title>Episode 024 - Amazing Discovery in .NET 9 - The Breakpoint Show</title>
+      </image>
+      <enclosure url="https://www.breakpoint.show/podcast-download/2352/episode-024-amazing-discovery-in-net-9.mp3?ref=download" type="audio/mp3" length="32923237" />
+    </item>
+    <item>
+      <link>https://www.breakpoint.show/podcast/episode-025-10x-platfrom-dbos-postgres-typescript-with-harry-pierson/</link>
+      <title>Episode 025 - 10X Platform - DBOS - Postgres &amp;amp; TypeScript with Harry Pierson - The Breakpoint Show</title>
+      <description>Welcome to the twenty-fifth episode of &amp;quot;The Breakpoint Show&amp;quot;! We&amp;#039;re thrilled to feature a special guest, Harry Pierson, who joined us to discuss his company, DBOS, and its cutting-edge technology. Conceived by researchers at MIT and Stanford, DBOS is revolutionizing how we approach cloud application development and deployment. Join us as we dive deep into the innovative DBOS platform, which comprises DBOS Transact and DBOS Cloud. Harry will take us through the remarkable features and benefits of these tools and how they are set to transform the cloud development landscape.</description>
+      <pubDate>Tue, 30 Jul 2024 11:05:16 Z</pubDate>
+      <image href="https://www.breakpoint.show/wp-content/uploads/2024/07/breakpoint_youtube-1.png" xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+      <image>
+        <url>https://www.breakpoint.show/wp-content/uploads/2024/07/breakpoint_youtube-1.png</url>
+        <title>Episode 025 - 10X Platform - DBOS - Postgres &amp;amp; TypeScript with Harry Pierson - The Breakpoint Show</title>
+      </image>
+      <enclosure url="https://www.breakpoint.show/podcast-download/2365/episode-025-10x-platfrom-dbos-postgres-typescript-with-harry-pierson.mp3?ref=download" type="audio/mp3" length="47521781" />
+    </item>
+    <item>
+      <link>https://www.breakpoint.show/podcast/episode-026-watch-your-domain-specific-language/</link>
+      <title>Episode 026 - Watch Your Domain Specific Language! - The Breakpoint Show</title>
+      <description>Welcome to the twenty-sixth episode of &amp;quot;The Breakpoint Show&amp;quot;! 🎙️ In this episode, our hosts dive into the fascinating world of Domain Specific Languages (DSLs). Whether you&amp;#039;re already familiar with DSLs or just hearing about them for the first time, this episode promises to be an enlightening exploration of their power and potential in software development.</description>
+      <pubDate>Tue, 06 Aug 2024 15:45:49 Z</pubDate>
+      <image href="https://www.breakpoint.show/wp-content/uploads/2024/08/breakpoint_youtube_2.png" xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+      <image>
+        <url>https://www.breakpoint.show/wp-content/uploads/2024/08/breakpoint_youtube_2.png</url>
+        <title>Episode 026 - Watch Your Domain Specific Language! - The Breakpoint Show</title>
+      </image>
+      <enclosure url="https://www.breakpoint.show/podcast-download/2373/episode-026-watch-your-domain-specific-language.mp3?ref=download" type="audio/mp3" length="33746301" />
+    </item>
+    <item>
+      <link>https://www.breakpoint.show/podcast/episode-027-net-evolving-too-fast/</link>
+      <title>Episode 027 - .NET Evolving Too Fast?! - The Breakpoint Show</title>
+      <description>https://youtu.be/bINNOHe5XTYWelcome to the twenty-seventh episode of &amp;quot;The Breakpoint Show&amp;quot;! In this episode, we tackle a hot topic in the .NET community: Is .NET and C# evolving too fast? With all these rapid updates, can developers keep up and thoroughly learn the most recent features of .NET and C#?Join our hosts as they dive into the</description>
+      <pubDate>Mon, 26 Aug 2024 01:43:57 Z</pubDate>
+      <image href="https://www.breakpoint.show/wp-content/uploads/2024/08/caveman_maarten.png" xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+      <image>
+        <url>https://www.breakpoint.show/wp-content/uploads/2024/08/caveman_maarten.png</url>
+        <title>Episode 027 - .NET Evolving Too Fast?! - The Breakpoint Show</title>
+      </image>
+      <enclosure url="https://www.breakpoint.show/podcast-download/2386/episode-027-net-evolving-too-fast.mp3?ref=download" type="audio/mp3" length="43638451" />
+    </item>
+    <item>
+      <link>https://www.breakpoint.show/podcast/episode-028-chris-is-required-validation/</link>
+      <title>Episode 028 - Chris is Required - Validation - The Breakpoint Show</title>
+      <description>https://www.youtube.com/watch?v=PLcdyRkH6rEWelcome to the twenty-eighth episode of &amp;quot;The Breakpoint Show&amp;quot;! In this episode, we&amp;#039;re delving into a crucial and often overlooked aspect of development: data validation. Join us as we explore how developers can validate data in their .NET solutions, which is vital for ensuring accuracy, security, and reliability.From basic input validation to more complex techniques,</description>
+      <pubDate>Mon, 09 Sep 2024 12:49:08 Z</pubDate>
+      <image href="https://www.breakpoint.show/wp-content/uploads/2024/09/validation_thumbnail.png" xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+      <image>
+        <url>https://www.breakpoint.show/wp-content/uploads/2024/09/validation_thumbnail.png</url>
+        <title>Episode 028 - Chris is Required - Validation - The Breakpoint Show</title>
+      </image>
+      <enclosure url="https://www.breakpoint.show/podcast-download/2396/episode-028-chris-is-required-validation.mp3?ref=download" type="audio/mp3" length="36722074" />
+    </item>
+    <item>
+      <link>https://www.breakpoint.show/podcast/episode-029-finding-your-tribe/</link>
+      <title>Episode 029 - Finding Your Tribe - The Breakpoint Show</title>
+      <description>https://youtu.be/zKYma65AiCIWelcome to the twenty-ninth episode of &amp;quot;The Breakpoint Show&amp;quot;! In this special episode, we&amp;#039;re diving deep into the idea of &amp;quot;finding your tribe&amp;quot; in the tech world. Join us as the hosts chat about the history, evolution, and current state of tech user groups and conferences worldwide, including Europe and America.We&amp;#039;ll explore how tech communities</description>
+      <pubDate>Wed, 02 Oct 2024 22:56:26 Z</pubDate>
+      <image href="https://www.breakpoint.show/wp-content/uploads/2024/10/finding_tribe.png" xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+      <image>
+        <url>https://www.breakpoint.show/wp-content/uploads/2024/10/finding_tribe.png</url>
+        <title>Episode 029 - Finding Your Tribe - The Breakpoint Show</title>
+      </image>
+      <enclosure url="https://www.breakpoint.show/podcast-download/2409/episode-029-finding-your-tribe.mp3?ref=download" type="audio/mp3" length="46435839" />
+    </item>
+    <item>
+      <link>https://www.breakpoint.show/podcast/episode-030-october-2024-catchup/</link>
+      <title>Episode 030 - October 2024 Catchup - The Breakpoint Show</title>
+      <description>https://youtu.be/HabCnCRDNgAWelcome to the thirtieth episode of &amp;quot;The Breakpoint Show&amp;quot;! In this episode, the hosts delve into some thrilling news from JetBrains. The game-changing decision to make Rider and WebStorm free for non-commercial and personal use is set to revolutionize the development landscape. We explore the profound impact of these powerful IDEs becoming more accessible and</description>
+      <pubDate>Thu, 24 Oct 2024 16:32:14 Z</pubDate>
+      <image href="https://www.breakpoint.show/wp-content/uploads/2024/10/october_breakpoint.png" xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+      <image>
+        <url>https://www.breakpoint.show/wp-content/uploads/2024/10/october_breakpoint.png</url>
+        <title>Episode 030 - October 2024 Catchup - The Breakpoint Show</title>
+      </image>
+      <enclosure url="https://www.breakpoint.show/podcast-download/2420/episode-030-october-2024-catchup.mp3?ref=download" type="audio/mp3" length="48376834" />
+    </item>
+    <item>
+      <link>https://www.breakpoint.show/podcast/episode-031-we-dont-need-khalid-but-maybe-we-do/</link>
+      <title>Episode 031 - We don&amp;#039;t need Khalid! (but maybe we do) - The Breakpoint Show</title>
+      <description>https://youtu.be/u7VOeNFvzksWelcome to the thirty-first episode of The Breakpoint Show! In this episode, Maarten and Woody hold down the fort while Khalid enjoys some well-deserved vacation time (don&amp;#039;t worry, we didn&amp;#039;t need him anyway).This week, we keep it short and sweet with a quick chat about the exciting features in .NET 9 and the latest buzz</description>
+      <pubDate>Tue, 03 Dec 2024 10:19:00 Z</pubDate>
+      <image href="https://www.breakpoint.show/wp-content/uploads/2024/12/episode-031-dont-need-khalid.png" xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+      <image>
+        <url>https://www.breakpoint.show/wp-content/uploads/2024/12/episode-031-dont-need-khalid.png</url>
+        <title>Episode 031 - We don&amp;#039;t need Khalid! (but maybe we do) - The Breakpoint Show</title>
+      </image>
+      <enclosure url="https://www.breakpoint.show/podcast-download/2431/episode-031-we-dont-need-khalid-but-maybe-we-do.mp3?ref=download" type="audio/mp3" />
+    </item>
+    <item>
+      <link>https://www.breakpoint.show/podcast/episode-032-year-in-review-2024/</link>
+      <title>Episode 032 - Year in Review 2024 - The Breakpoint Show</title>
+      <description>https://youtu.be/07iqvipF7xsWelcome to the thirty-second episode of The Breakpoint Show! As we wrap up 2024, we’re reflecting on an incredible year in software development, the .NET ecosystem, and the vibrant developer community.In this special year-end episode, we reflect on the key highlights of 2024, including the release of .NET 9 and its impact, trends in software</description>
+      <pubDate>Sun, 22 Dec 2024 22:37:25 Z</pubDate>
+      <image href="https://www.breakpoint.show/wp-content/uploads/2024/12/breakpoint_youtube.png" xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+      <image>
+        <url>https://www.breakpoint.show/wp-content/uploads/2024/12/breakpoint_youtube.png</url>
+        <title>Episode 032 - Year in Review 2024 - The Breakpoint Show</title>
+      </image>
+      <enclosure url="https://www.breakpoint.show/podcast-download/2440/episode-032-year-in-review-2024.mp3?ref=download" type="audio/mp3" />
+    </item>
+    <item>
+      <link>https://www.breakpoint.show/podcast/episode-033-new-year-new-apps/</link>
+      <title>Episode 033 - New Year New Apps - The Breakpoint Show</title>
+      <description>https://youtu.be/nXsGxkqF_pcWelcome to the thirty-third episode of The Breakpoint Show! In the latest episode of The Breakpoint Show, we’re tackling the challenges of migrating older projects from .NET Framework to today’s .NET. From handling outdated codebases to leveraging new tools and strategies, we’ll walk you through what it takes to bring your legacy projects into the</description>
+      <pubDate>Fri, 10 Jan 2025 11:49:24 Z</pubDate>
+      <image href="https://www.breakpoint.show/wp-content/uploads/2025/01/breakpoint-033.jpg" xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+      <image>
+        <url>https://www.breakpoint.show/wp-content/uploads/2025/01/breakpoint-033.jpg</url>
+        <title>Episode 033 - New Year New Apps - The Breakpoint Show</title>
+      </image>
+      <enclosure url="https://www.breakpoint.show/podcast-download/2448/episode-033-new-year-new-apps.mp3?ref=download" type="audio/mp3" />
+    </item>
+    <item>
+      <link>https://www.breakpoint.show/podcast/episode-034-greenfield-projects/</link>
+      <title>Episode 034 - Greenfield Projects - The Breakpoint Show</title>
+      <description>https://youtu.be/pUpnUaA9v_gWelcome to the thirty-fourth episode of The Breakpoint Show! In this episode, we’re shifting our focus from legacy code to the exciting world of greenfield projects. Starting fresh can be both thrilling and overwhelming, so we’re here to break down how to set your new project up for success—before you even write a single line</description>
+      <pubDate>Fri, 07 Feb 2025 13:52:14 Z</pubDate>
+      <image href="https://www.breakpoint.show/wp-content/uploads/2025/02/breakpoint_greenfield_two.jpg" xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+      <image>
+        <url>https://www.breakpoint.show/wp-content/uploads/2025/02/breakpoint_greenfield_two.jpg</url>
+        <title>Episode 034 - Greenfield Projects - The Breakpoint Show</title>
+      </image>
+      <enclosure url="https://www.breakpoint.show/podcast-download/2462/episode-034-greenfield-projects.mp3?ref=download" type="audio/mp3" />
+    </item>
+    <item>
+      <link>https://www.breakpoint.show/podcast/episode-035-net-features-love-it-or-hate-it/</link>
+      <title>Episode 035 - .NET Features: Love it or Hate it - The Breakpoint Show</title>
+      <description>https://www.youtube.com/watch?v=UAPDYFf-YG4Welcome to the thirty-fifth episode of The Breakpoint Show! In this episode, we take a nostalgic and opinionated journey through the best and worst features of .NET over the years. From the innovations we’ve loved to the ones that made us question our life choices, we’re breaking it all down with a mix of insight,</description>
+      <pubDate>Thu, 20 Feb 2025 09:42:54 Z</pubDate>
+      <image href="https://www.breakpoint.show/wp-content/uploads/2025/02/breakpoint-episode-035-feature.jpg" xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+      <image>
+        <url>https://www.breakpoint.show/wp-content/uploads/2025/02/breakpoint-episode-035-feature.jpg</url>
+        <title>Episode 035 - .NET Features: Love it or Hate it - The Breakpoint Show</title>
+      </image>
+      <enclosure url="https://www.breakpoint.show/podcast-download/2472/episode-035-net-features-love-it-or-hate-it.mp3?ref=download" type="audio/mp3" />
+    </item>
+    <item>
+      <link>https://www.breakpoint.show/podcast/episode-036-episode-of-a-lifetime/</link>
+      <title>Episode 036 - Episode of a Lifetime - The Breakpoint Show</title>
+      <description>https://www.youtube.com/watch?v=DhrddcvSYQoWelcome to the thirty-sixth episode of The Breakpoint Show! This time, we’re diving into a core topic for every .NET and C# developer—dependency injection (DI)! Whether you’ve been using DI for years or still find some parts of it a mystery, this episode will help you understand the why, how, and when of using DI</description>
+      <pubDate>Sun, 16 Mar 2025 15:05:59 Z</pubDate>
+      <image href="https://www.breakpoint.show/wp-content/uploads/2025/03/breakpoint-episode-036.jpg" xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+      <image>
+        <url>https://www.breakpoint.show/wp-content/uploads/2025/03/breakpoint-episode-036.jpg</url>
+        <title>Episode 036 - Episode of a Lifetime - The Breakpoint Show</title>
+      </image>
+      <enclosure url="https://www.breakpoint.show/podcast-download/2483/episode-036-episode-of-a-lifetime.mp3?ref=download" type="audio/mp3" length="49778563" />
+    </item>
+    <item>
+      <link>https://www.breakpoint.show/podcast/episode-037-youre-a-quantum-wizard-hanna/</link>
+      <title>Episode 037 - You&amp;#039;re a Quantum Wizard Hanna! - The Breakpoint Show</title>
+      <description>https://youtu.be/UbtXyLINGUoWelcome to the thirty-seventh episode of The Breakpoint Show! This time, we’re stepping into the future with a fascinating conversation about Quantum Computing with our special guest, Hanna Engel—a leading voice in the field and passionate advocate for making quantum computing accessible to developers everywhere.In this episode, we break down what Quantum Computing actually is,</description>
+      <pubDate>Mon, 24 Mar 2025 00:35:17 Z</pubDate>
+      <image href="https://www.breakpoint.show/wp-content/uploads/2025/03/breakpoint-episode-037.jpg" xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+      <image>
+        <url>https://www.breakpoint.show/wp-content/uploads/2025/03/breakpoint-episode-037.jpg</url>
+        <title>Episode 037 - You&amp;#039;re a Quantum Wizard Hanna! - The Breakpoint Show</title>
+      </image>
+      <enclosure url="https://www.breakpoint.show/podcast-download/2498/episode-037-youre-a-quantum-wizard-hanna.mp3?ref=download" type="audio/mp3" />
+    </item>
+    <item>
+      <link>https://www.breakpoint.show/podcast/episode-038-jibber-jabber/</link>
+      <title>Episode 038 - Jibber Jabber! - The Breakpoint Show</title>
+      <description>https://www.youtube.com/watch?v=C2SdPJyKtAIWelcome to the thirty-eighth episode of The Breakpoint Show! Last episode, we had a fascinating discussion with Hanna about quantum computing. This week, we&amp;#039;re taking a break from in-depth dives and special guests to focus on something just as important—catching up!In this episode, it&amp;#039;s just us hosts hanging out and reflecting on all the exciting,</description>
+      <pubDate>Mon, 14 Apr 2025 11:52:26 Z</pubDate>
+      <image href="https://www.breakpoint.show/wp-content/uploads/2025/04/breakpoint_youtube_38.jpg" xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+      <image>
+        <url>https://www.breakpoint.show/wp-content/uploads/2025/04/breakpoint_youtube_38.jpg</url>
+        <title>Episode 038 - Jibber Jabber! - The Breakpoint Show</title>
+      </image>
+      <enclosure url="https://www.breakpoint.show/podcast-download/2514/episode-038-jibber-jabber.mp3?ref=download" type="audio/mp3" length="48454430" />
+    </item>
+    <item>
+      <link>https://www.breakpoint.show/podcast/episode-039-dont-call-my-net-baby-ugly/</link>
+      <title>Episode 039 - Don&amp;#039;t Call My .NET Baby Ugly! - The Breakpoint Show</title>
+      <description>https://youtu.be/P1rs1ECZcxUWelcome to the thirty-ninth episode of The Breakpoint Show! In this episode, we tackle one of the biggest challenges many development teams face today: migrating .NET Framework applications to modern .NET. And we’re not doing it alone — we’re joined by special guest Tomas Herceg, an expert in .NET migrations and modernizing legacy systems.Tomas shares</description>
+      <pubDate>Fri, 25 Apr 2025 12:33:41 Z</pubDate>
+      <image href="https://www.breakpoint.show/wp-content/uploads/2025/04/breakpoint_youtube-39-scaled.png" xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+      <image>
+        <url>https://www.breakpoint.show/wp-content/uploads/2025/04/breakpoint_youtube-39-scaled.png</url>
+        <title>Episode 039 - Don&amp;#039;t Call My .NET Baby Ugly! - The Breakpoint Show</title>
+      </image>
+      <enclosure url="https://www.breakpoint.show/podcast-download/2530/episode-039-dont-call-my-net-baby-ugly.mp3?ref=download" type="audio/mp3" />
     </item>
   </channel>
 </rss>
